@@ -22,10 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
+![Preview Screenshot](./images/preview.png)
+
 ### Links
 
-- Solution URL: [Here!](https://your-solution-url.com)
-- Live Site URL: [Here!](https://your-live-site-url.com)
+- Solution URL: [Here!](https://www.frontendmentor.io/solutions/responsive-testimonials-grid-built-with-html-and-css-pW85EBh1D8)
+- Live Site URL: [Here!](https://mohamed-devp.github.io/testimonials-grid/)
 
 ## My process
 
@@ -35,13 +37,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Mohamed-Devp](https://www.frontendmentor.io/profile/Mohamed-Devp)
